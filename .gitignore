@@ -1,0 +1,23 @@
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# Backend
+backend/target/
+backend/data/
+backend/*.log
+backend/*_out.txt
+
+# Global ignores
+.env
+*.db
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
